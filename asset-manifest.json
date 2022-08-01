@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/portfolio-1/static/css/main.1cbcd9a8.css",
-    "main.js": "/portfolio-1/static/js/main.ab722008.js",
-    "static/media/eyob-banner2.png": "/portfolio-1/static/media/eyob-banner2.a76e0cece89021022ccb.png",
-    "static/media/portfolio5.png": "/portfolio-1/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/ATAKILT YAKOB -FULLSTACK-RESUME.pdf": "/portfolio-1/static/media/ATAKILT YAKOB -FULLSTACK-RESUME.9cd567113828b5d2601e.pdf",
-    "static/media/portfolio2.jpg": "/portfolio-1/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/portfolio-1/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/portfolio-1/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/eyob-7.png": "/portfolio-1/static/media/eyob-7.fee492ebb34b7a766ff4.png",
-    "static/media/portfolio3.jpg": "/portfolio-1/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/portfolio-1/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "static/media/react-back1.jpg": "/portfolio-1/static/media/react-back1.524bfe8f20fbf3c2fe27.jpg",
-    "index.html": "/portfolio-1/index.html",
-    "main.1cbcd9a8.css.map": "/portfolio-1/static/css/main.1cbcd9a8.css.map",
-    "main.ab722008.js.map": "/portfolio-1/static/js/main.ab722008.js.map"
+    "main.css": "/portfolio-react/static/css/main.190e5020.css",
+    "main.js": "/portfolio-react/static/js/main.edbc9486.js",
+    "static/media/amazone.png": "/portfolio-react/static/media/amazone.ac4fc45642b3a1489af7.png",
+    "static/media/abel.png": "/portfolio-react/static/media/abel.b540b683835da623b02c.png",
+    "static/media/eyob-banner2.png": "/portfolio-react/static/media/eyob-banner2.a76e0cece89021022ccb.png",
+    "static/media/logo_128x128.ico": "/portfolio-react/static/media/logo_128x128.d835cc3f678b16c2117e.ico",
+    "static/media/twitter.jpg": "/portfolio-react/static/media/twitter.6aee477a8719a29ba632.jpg",
+    "static/media/ATAKILT YAKOB -FULLSTACK-RESUME.pdf": "/portfolio-react/static/media/ATAKILT YAKOB -FULLSTACK-RESUME.9cd567113828b5d2601e.pdf",
+    "static/media/appleR.jpeg": "/portfolio-react/static/media/appleR.996ea66af42db40e5eab.jpeg",
+    "static/media/onlineschool2.jpg": "/portfolio-react/static/media/onlineschool2.3d5b399c25a51d054718.jpg",
+    "static/media/eyob-7.png": "/portfolio-react/static/media/eyob-7.fee492ebb34b7a766ff4.png",
+    "static/media/coffee.png": "/portfolio-react/static/media/coffee.1a3d2820fb69d2b76f2b.png",
+    "static/media/snak game.jpg": "/portfolio-react/static/media/snak game.a1405262806393ab5e5f.jpg",
+    "static/media/zoom.png": "/portfolio-react/static/media/zoom.cccd7c3ec862fe83676b.png",
+    "static/media/appleB.jpeg": "/portfolio-react/static/media/appleB.9cfdccf5d299b5b16198.jpeg",
+    "static/media/realestate.jpeg": "/portfolio-react/static/media/realestate.25b7e67bc19b941dcafa.jpeg",
+    "static/media/react-back1.jpg": "/portfolio-react/static/media/react-back1.524bfe8f20fbf3c2fe27.jpg",
+    "static/media/onlineschool.png": "/portfolio-react/static/media/onlineschool.37416ea45b7946b706d6.png",
+    "static/media/facebook1.jpg": "/portfolio-react/static/media/facebook1.e3aff00c884197d4e561.jpg",
+    "static/media/youtube.jpg": "/portfolio-react/static/media/youtube.c4256b03542f2957f78e.jpg",
+    "static/media/netflix.png": "/portfolio-react/static/media/netflix.45c3139b224f67db34e9.png",
+    "index.html": "/portfolio-react/index.html",
+    "main.190e5020.css.map": "/portfolio-react/static/css/main.190e5020.css.map",
+    "main.edbc9486.js.map": "/portfolio-react/static/js/main.edbc9486.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cbcd9a8.css",
-    "static/js/main.ab722008.js"
+    "static/css/main.190e5020.css",
+    "static/js/main.edbc9486.js"
   ]
 }
