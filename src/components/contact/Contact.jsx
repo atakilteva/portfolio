@@ -38,13 +38,14 @@ const Contact = () => {
       <h5>Facebook</h5>
       <a href='https://m.me/atakilt.yakob' target="_blank">Send a massage</a>
       </article>
-      <article className='contact__option'>
+     {/* <article className='contact__option'>
       <FaTelegramPlane className='contact_option-icon'/>
       <h4>Telegram</h4>
       <h5>Join with me</h5>
       <a href='https://t.me/eyobyakob' target="_blank">Send a massage</a>
       </article>
       
+    */}
   </div>
   <div className='contact__options'>
   

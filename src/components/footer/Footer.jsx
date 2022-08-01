@@ -22,12 +22,16 @@ const Footer = () => {
     <div className='footer__socials'>
     <a href='https://facebook.com'><FaFacebookSquare /></a>
     <a href='https://linkedin.com'><AiFillLinkedin /></a>
-    <a href='https://telegram.com'><FaTelegramPlane /></a>
+    <a href='https://t.me/eyobyakob'><FaTelegramPlane /></a>
     <a href='https://twitter.com'><AiOutlineTwitter /></a>
     <a href='https://instagram.com'><BsInstagram /></a>
     </div>
+
     <div className='footer__copyright'>
-    <small> $Copy Right 2022; Atakilt portfolio. All rights reserved</small>
+    <small> 
+    @Copy Right: 2022 Atakilt Portfolio. All rights reserved
+   
+    </small>
     </div>
     </footer>
   )

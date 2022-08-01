@@ -80,16 +80,16 @@ const service = () => {
     </div>
     <ul className='service__list'>
       <li><BiCheck  className='service__list-icon'/>
-      <p>Website content creation</p>
+      <p>Regularly updating the website.</p>
       </li>
       <li><BiCheck  className='service__list-icon'/>
-      <p>Images/photos preparation for web</p>
+      <p>Running backups</p>
       </li>
       <li><BiCheck  className='service__list-icon'/>
-      <p>Blog posts</p>
+      <p>Updating the content</p>
       </li>
       <li><BiCheck  className='service__list-icon'/>
-      <p>Email management</p>
+      <p>Testing page speeds...</p>
       </li>
       
     </ul>
@@ -100,16 +100,20 @@ const service = () => {
     </div>
     <ul className='service__list'>
       <li><BiCheck  className='service__list-icon'/>
-      <p>Website content creation</p>
+      <p>Preparation</p>
       </li>
       <li><BiCheck  className='service__list-icon'/>
-      <p>Images/photos preparation for web</p>
+      <p>Set Up DNS Records.</p>
       </li>
       <li><BiCheck  className='service__list-icon'/>
-      <p>Blog posts</p>
+      <p>Set Up a Live Testing Site</p>
       </li>
       <li><BiCheck  className='service__list-icon'/>
-      <p>Email management</p>
+      <p>Set Up Email Accounts</p>
+      </li>
+      
+      <li><BiCheck  className='service__list-icon'/>
+      <p>Backup and Go Live</p>
       </li>
       
     </ul>
@@ -120,16 +124,16 @@ const service = () => {
     </div>
     <ul className='service__list'>
       <li><BiCheck  className='service__list-icon'/>
-      <p>Website content creation</p>
+      <p>Responsive web site design</p>
       </li>
       <li><BiCheck  className='service__list-icon'/>
-      <p>Images/photos preparation for web</p>
+      <p>User interactive </p>
       </li>
       <li><BiCheck  className='service__list-icon'/>
-      <p>Blog posts</p>
+      <p>And User experience </p>
       </li>
       <li><BiCheck  className='service__list-icon'/>
-      <p>Email management</p>
+      <p>Device responsive</p>
       </li>
       
     </ul>
